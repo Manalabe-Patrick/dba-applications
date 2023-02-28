@@ -1,0 +1,15 @@
+C:\Users\Poof\Desktop\DBA Application\dupplicate\bin\Debug\net6.0\dupplicate.exe
+C:\Users\Poof\Desktop\DBA Application\dupplicate\bin\Debug\net6.0\dupplicate.deps.json
+C:\Users\Poof\Desktop\DBA Application\dupplicate\bin\Debug\net6.0\dupplicate.runtimeconfig.json
+C:\Users\Poof\Desktop\DBA Application\dupplicate\bin\Debug\net6.0\dupplicate.dll
+C:\Users\Poof\Desktop\DBA Application\dupplicate\bin\Debug\net6.0\dupplicate.pdb
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\dupplicate.csproj.AssemblyReference.cache
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\dupplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\dupplicate.AssemblyInfoInputs.cache
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\dupplicate.AssemblyInfo.cs
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\dupplicate.csproj.CoreCompileInputs.cache
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\dupplicate.dll
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\refint\dupplicate.dll
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\dupplicate.pdb
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\dupplicate.genruntimeconfig.cache
+C:\Users\Poof\Desktop\DBA Application\dupplicate\obj\Debug\net6.0\ref\dupplicate.dll
